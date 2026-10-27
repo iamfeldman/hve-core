@@ -7,7 +7,7 @@ sidebar_custom_props:
   accessibleName: "Overview: Contributing AI Artifacts"
 pagination_label: Contributing AI Artifacts
 author: Microsoft
-ms.date: 2026-10-07
+ms.date: 2026-10-18
 ms.topic: overview
 keywords:
   - contributing
@@ -52,7 +52,7 @@ Use this table to navigate to the appropriate guide based on what you want to co
 | [Prompts](prompts.md)                                                 | How to create reusable prompt templates                                          |
 | [Skills](skills.md)                                                   | How to create skill packages with scripts and documentation                      |
 | [Hooks](hooks.md)                                                     | How to implement hook manifests, scripts, and collection registration            |
-| [Release Process](release-process.md)                                 | Extension channels, maturity levels, and publishing workflow                     |
+| [Release Process](release-process.md)                                 | Release cadence, release-please automation, pre-release tagging, and provenance  |
 | [Evals in CI](evals-ci.md)                                            | Auth contract, fork-PR policy, and how to add a new eval spec                    |
 | [Validation Commands](validation)                                     | Local-safe defaults, named CI-owned lanes, prerequisites, and cleanup            |
 
